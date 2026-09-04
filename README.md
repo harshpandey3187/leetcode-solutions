@@ -18,6 +18,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
