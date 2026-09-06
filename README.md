@@ -20,6 +20,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -68,4 +70,8 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
