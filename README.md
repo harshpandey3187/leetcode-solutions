@@ -32,6 +32,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0136-single-number](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -101,4 +102,8 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
