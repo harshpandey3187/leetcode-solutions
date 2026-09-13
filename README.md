@@ -20,6 +20,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0018-4sum) |
@@ -38,6 +39,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
