@@ -12,6 +12,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshpandey3187/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -36,12 +37,14 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0238-product-of-array-except-self](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshpandey3187/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshpandey3187/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/harshpandey3187/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
