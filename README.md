@@ -27,6 +27,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0018-4sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpandey3187/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -127,4 +129,8 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
