@@ -139,11 +139,13 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpandey3187/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpandey3187/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,4 +176,5 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpandey3187/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
