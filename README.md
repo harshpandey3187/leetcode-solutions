@@ -82,6 +82,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0042-trapping-rain-water](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -169,4 +170,8 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
