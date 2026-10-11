@@ -49,6 +49,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0001-two-sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/harshpandey3187/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -87,6 +88,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -180,5 +183,6 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0125-valid-palindrome](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harshpandey3187/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
