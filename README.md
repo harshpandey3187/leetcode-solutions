@@ -26,6 +26,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 | [0015-3sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -93,6 +94,7 @@ A collection of my LeetCode solutions implemented in Java. This repository track
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshpandey3187/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
